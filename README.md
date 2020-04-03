@@ -1,10 +1,10 @@
 Setup
-npm install
+npm install,
 npm start
 
 Go to new console window (same project path) and run
-npm run cypress
-new browser will open
+npm run cypress,
+new browser will open,
 select you test(form.spec.js) and double click to run
 
 
