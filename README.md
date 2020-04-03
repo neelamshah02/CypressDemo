@@ -1,6 +1,7 @@
 Setup
 npm install
 npm start
+
 Go to new console window (same project path) and run
 npm run cypress
 new browser will open
